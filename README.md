@@ -1,3 +1,3 @@
 # Covid19-Info
  
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See projet online [here](https://covid19-infoapp.netlify.app).
