@@ -1,0 +1,18 @@
+.btn-plus{
+	background:#1e4f62;
+	color: white!important;
+	padding: 6px 20px 6px 20px;
+	font-size: 20px;
+	border: 2px #1e4f62 solid;
+	border-bottom: 4px #259abd solid;
+	border-right: 4px #259abd solid;
+	transition: 0.2s;
+	text-decoration: none;
+}
+
+.btn-plus:hover{
+    border-bottom: 4px #1e4f62 solid;
+	border-right: 4px #1e4f62 solid;
+    border-top: 4px #259abd  solid;
+	border-left: 2px #259abd  solid;
+}
